@@ -7,7 +7,7 @@
 
 -  Ask me about **Web Development**
 
--  Reach me through email **rafsanjani81@outlook.com**
+-  Reach me through **rafsanjani81@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
