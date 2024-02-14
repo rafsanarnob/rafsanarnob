@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafsanarnob&label=Profile%20views&color=0e75b6&style=flat" alt="rafsanarnob" /> </p>
 
-- 🔭 I’m currently working on [Roonyx](https://roonyx.tech/)
+- I’m currently working on [Roonyx](https://roonyx.tech/)
 
-- 💬 Ask me about **Web Development**
+-  Ask me about **Web Development**
 
-- 📫 How to reach me **rafsanjani81@outlook.com**
+-  How to reach me **rafsanjani81@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
