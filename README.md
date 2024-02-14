@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Rafsan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi 👋 I'm RAFSAN</h1>
+<h3 align="center">A PASSIONATE FRONTEND DEVELOPER FROM BANGLADESH</h3>
 
 - 🔭 I’m currently working on [Roonyx](https://roonyx.tech/)
 
