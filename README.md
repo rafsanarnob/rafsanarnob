@@ -2,9 +2,7 @@
 <h3 align="center">MY NAME IS RAFSAN J. ARNOB</h3>
 
 - I’m currently working at [Roonyx](https://roonyx.tech/)
-
 -  Ask me about **Web Development**
-
 -  Reach me through **rafsanjani81@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
