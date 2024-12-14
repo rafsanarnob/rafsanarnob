@@ -22,3 +22,7 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+<h3 align="center">CONNECT WITH ME USING </h3>
+<p align="center">
+<a href="https://linkedin.com/in/rafsan-arnob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafsan-arnob" height="30" width="40" /></a>
+</p>
